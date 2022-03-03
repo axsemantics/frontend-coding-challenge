@@ -28,7 +28,8 @@ Each generated text is based on exactly one story, with each referenced **statem
 ### Statements
 
 A **statement** has a name, belongs to one or multiple **stories** and references multiple **nodes**.
-In our actual platform, **statements** define how data from **nodes** is combined into a linear text.
+
+(In our actual platform, **statements** define how data from **nodes** is combined into a linear text.)
 
 ### Nodes
 
