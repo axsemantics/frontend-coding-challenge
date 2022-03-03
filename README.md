@@ -11,7 +11,7 @@ You will be invited to a slack channel where we will answer any questions you'll
 Please don't work any longer than 4 hours in total on this challenge, there is no requirement to finish everything you set out to do.
 In the technical interview that follows we will go through your solution together and talk about the direction you would take the code if it were a bigger project.
 
-To approximate how you'll work at AX Semantics, we won't give you a complete specification to implement, but a problem description. We've chosen a real problem that's already solved in our product and removed some complexity not relevant for this challenge to give you an approximation of a problem you'll realistically encounter at AX Semantics.
+To approximate how you'll work at AX Semantics, we won't give you a complete specification to implement, but a problem description. We've chosen a real problem that's already solved in our product and removed some complexity not relevant for this challenge to give you an idea of a problem you'll realistically encounter at AX Semantics.
 
 The goal of this challenge is to build a UI and write code to solve the following problem:
 
