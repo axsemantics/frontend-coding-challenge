@@ -9,7 +9,7 @@ We want to learn how you approach problems, how you handle incomplete informatio
 You will be invited to a slack channel where we will answer any questions you'll have.
 
 Please don't work any longer than 4 hours in total on this challenge, there is no requirement to finish everything you set out to do.
-In the technical interview that follows we will go through your solution together and talk about the direction you would take the code if it were a bigger project.
+In the technical interview that follows we, together with you, will go through your solution and talk about the direction you would take the code if it were a bigger project.
 
 To approximate how you'll work at AX Semantics, we won't give you a complete specification to implement, but a problem description. We've chosen a real problem that's already solved in our product and removed some complexity not relevant for this challenge to give you an approximation of a problem you'll realistically encounter at AX Semantics.
 
