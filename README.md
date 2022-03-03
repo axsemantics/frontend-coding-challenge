@@ -43,7 +43,7 @@ Use the provided API to show a list of projects linking to a project details vie
 - the name of the project.
 - the number of stories, statements and nodes of the project.
 
-(Your list and details view doesn't need to look anything like the AX Semantics platform.)
+(Your list and details views don't need to look anything like the AX Semantics platform.)
 
 ## Split Project UI
 
