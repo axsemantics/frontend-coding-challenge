@@ -20,6 +20,8 @@ The goal of this challenge is to build a UI and write code to solve the followin
 
 Most functionality in the AX Semantics platform is structured inside "projects", which customers use to organize their different use cases. For our coding challenge, projects only contain the structures stories, statements and nodes. These are created by our users to tell our text engine what text should be generated for data they provide. For this coding challenge we're not concerned with how text is actually defined and produced, only that structures reference each other.
 
+## Structures
+
 ### Stories
 
 A **story** has a name and references multiple **statements**.
