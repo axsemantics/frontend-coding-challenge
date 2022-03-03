@@ -47,7 +47,8 @@ Use the provided API to show a list of projects linking to a project details vie
 
 ## Split Project UI
 
-The amount of stories, statements, and nodes can grow quite large inside a project, which is why users need to sometimes **split** existing projects into multiple new ones. Of course, copy-pasting lots of things from one project into another is quite boring and prone to errors, so we decided to help our users by adding a feature which splits projects along defined **stories**.
+The amount of stories, statements, and nodes can grow quite large inside a project, which is why users need to sometimes **split** existing projects into multiple new ones. Of course, copy-pasting lots of things from one project into another is quite boring and prone to errors, so we decided to help our users by adding a feature which splits projects along specific **stories**.
+
 To help users decide how and where to split exactly, we want to show them clusters of stories, statements and nodes. The actual computation of dependencies and the split operation itself is done by the API (see the API docs for details).
 
 Create a UI for users to:
